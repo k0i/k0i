@@ -1,7 +1,7 @@
 # WHOIS
-- Japanese,he/him
-- Developer (Web)
-- Very interested in Security sphere at present.
+- Japanese
+- Web Developer
+- I'm very interested in CyberSecurity at present.
 
 
 
